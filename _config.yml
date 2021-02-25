@@ -7,13 +7,13 @@ title: ZHAO
 subtitle: ''
 description: ''
 keywords:
-author: blog.zezf.com
+author: iwasd.zezf.com
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://blog.zezf.com
+url: https://iwasd.zezf.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
